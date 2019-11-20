@@ -1,0 +1,132 @@
+#h{
+  font-style: italic;
+  font-family: sans-serif;
+  text-align: right;
+  background-color: lightslategray;
+  color: white;
+}
+.d1{
+  overflow: hidden;
+  background-color: black;
+}
+.d1 a{
+  color:darkslategray;
+  text-align: center;
+  font-size:25px;
+  padding:14px 14px;
+}
+.d1 a:hover{
+  background-color: darkgray;
+  color:saddlebrown;
+}
+.top-center{
+  position:absolute;
+  top:150px;
+  left:20px;
+  font-family:serif;
+  font-size:30px;
+}
+.text-block{
+  position: absolute;
+  bottom:-40px;
+  right:20px;
+  background-color: black;
+  color:white;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+}
+#home .b1{
+  position: absolute;
+  bottom: -40px;
+  left:20px;
+  color:black;
+  cursor:pointer;
+  padding: 20px 20px;
+  font-size:15px;
+}
+#g{
+  font-style: italic;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightslategray;
+  color: white;
+  font-size:35px;
+}
+span{
+  color:navy;
+  font-style: italic;
+  text-align: left;
+  font-size: 30px;
+}
+#o{
+  width:100%;
+}
+#o1{
+  width:33%;
+  padding 10px;
+}
+#o2 a{
+  font-style:italic;
+  font-size:20px;
+  font-family:algerian;
+  text-decoration: none;
+  color:black;
+}
+#o2 a:hover{
+  font-size:25px;
+  color:chocolate;
+}
+#facilities{
+  background-color:lightpink;
+}
+#i{
+  width:100%;
+}
+#i1{
+  width:25%;
+  padding 10px;
+}
+#i2 a{
+  font-style:italic;
+  font-size:20px;
+  font-family:algerian;
+  text-decoration: none;
+  color:black;
+}
+#i2 a:hover{
+  font-size:25px;
+  color:chocolate;
+}
+#details{
+  background-color:burlywood;
+}
+#testimonials{
+  background-color: coral;
+}
+.circle{
+  border-radius:70%;
+  width:20%;
+  height:15%;
+  margin:15px;
+}
+#t{
+  width:100%;
+}
+#t1{
+  width:33.3%;
+}
+#form1
+{
+  color:crimson;
+  font-size:20px;
+}
+#form,#form1
+{
+  padding:10px;
+  border:1px solid white;
+  border-collapse:collapse;
+}
+#form{
+  margin:40px;
+}
